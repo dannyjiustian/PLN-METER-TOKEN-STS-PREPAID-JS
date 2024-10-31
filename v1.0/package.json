@@ -1,0 +1,34 @@
+{
+  "name": "STS Meter using javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "Danny Jiustian",
+    "email": "danny.djie72@gmail.com",
+    "url": "https://github.com/dannyjiustian"
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "",
+    "test": ""
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "luxon": "^3.5.0"
+  }
+}
