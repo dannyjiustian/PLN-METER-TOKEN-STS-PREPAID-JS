@@ -45,18 +45,53 @@ https://github.com/user-attachments/assets/c3af4a9d-c03c-4271-86a7-89ea6cdf4787
 
 To get started, follow these steps:
 
-**Install Dependencies**  
+### Install Dependencies  
 
 Begin by installing the required packages. Open your terminal and run the following command:
 ```bash
 npm install
 ```
-**Run the Application**
+
+### Run the Application
 
 After the installation is complete, you can launch the application using this command:
 ```bash
 npm start
 ```
+
+### Alternative Options for Running the Application
+
+#### 1. Running a Shell Script on Linux/macOS
+
+To execute the application on Linux or macOS using a shell script, follow these steps:
+
+1. **Navigate to the Directory**:
+   - Change to the directory containing start.sh by running:
+   ```bash
+   cd v2.0/
+   ```
+3. **Make the Script Executable**:
+   - In your terminal, ensure the script is executable by running:
+     ```bash
+     chmod +x start.sh
+     ```
+4. **Execute the Script**:
+   - Finally, run the script in your terminal with:
+     ```bash
+     ./start.sh
+     ```
+
+#### 2. Running a Batch File on Windows
+
+To execute the application on Windows using a batch file, follow these steps:
+
+1. **Run the File**:
+   - You can either double-click `start.bat` to run it, or you can execute it from the Command Prompt by navigating to its directory and entering:
+     ```bash
+     start.bat
+     ```
+---
+
 
 ## Information v2.0
 
